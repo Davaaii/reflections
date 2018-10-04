@@ -1,0 +1,6 @@
+git log
+git status
+git diff
+git checkout
+git add "filename here"
+git commit -m "commit message here"
