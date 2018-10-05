@@ -1,4 +1,4 @@
-git log
+git log/ git log -n 1
 git status
 git diff
 git checkout
@@ -7,3 +7,6 @@ git commit -m "commit message here"
 git branch/ git branch (name)/ git checkout (branchname)/git branch -d (branchname) *delete branch*
 git show (commitIDHere)
 git merge
+
+git remote/ git remote add (name)
+git push origin master
