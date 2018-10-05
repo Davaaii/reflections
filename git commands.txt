@@ -6,3 +6,4 @@ git add "filename here"
 git commit -m "commit message here"
 git branch/ git branch (name)/ git checkout (branchname)/git branch -d (branchname) *delete branch*
 git show (commitIDHere)
+git merge
